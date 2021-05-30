@@ -1,3 +1,6 @@
+ЛР1 
+Используемая выборка: https://www.kaggle.com/aaronyin/oneshotpokemon
+Python3.6
 Версии основных используемых библиотек:
 opencv-python==4.5.1.48
 matplotlib==3.3.4
